@@ -44,6 +44,7 @@ include:netcraze
 include:nic-ru
 include:positive-technologies
 include:regru
+include:sber
 include:selectel
 include:servicepipe
 include:skyeng
@@ -59,9 +60,6 @@ include:category-bank-ru
 ## Credit History Bureaus
 credistory.ru
 nbki.ru
-## Currency and stock exchanges
-moex.com   # Moscow Stock Exchange
-spvb.ru    # Saint-Petersburg Stock Exchange
 ## Card & Document delivery
 efin.ru
 ## Financial marketplace
@@ -72,8 +70,6 @@ sistema-capital.com
 ## Mir payment system
 mironline.ru
 mirpayonline.ru
-## National Payment Card System
-nspk.ru
 ## Tipping service
 netmonet.co
 tips.tips
